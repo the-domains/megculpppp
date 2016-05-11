@@ -1,7 +1,7 @@
 name: Meg Culp
 favicon: null
-layout_spectrum: 0.10012429836206138
-typography_spectrum: 0.24842330254614353
+layout_spectrum: 0.98685
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.9154849878977984
-  lightness: 0.20099796634167433
-  saturation: 0.07937869685702026
-  rhythmicContrast: 0.2085657746065408
+    - '#ffffff'
+    - '#0c191d'
+    - '#5ea4ce'
+    - '#365663'
+    - '#81d7e9'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose: []
