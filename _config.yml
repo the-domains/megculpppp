@@ -1,29 +1,41 @@
-name: Meg Culp
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 1
 title: "Vibin' with Meg"
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.0625
+  lightness: 0.5896057
+  brandColors:
+    - '#14100F'
+    - '#CCCDD1'
+    - '#778DA2'
+    - '#43362E'
+    - '#585560'
+  rhythmicContrast: 0
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Meg Culp
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#0c191d'
-    - '#5ea4ce'
-    - '#365663'
-    - '#81d7e9'
-  brandStrength: 0.0625
-  lightness: 0.5
-  saturation: 0.6875
-  rhythmicContrast: 0
-purpose: []
+typography_spectrum: 1
+layout_spectrum: 1
