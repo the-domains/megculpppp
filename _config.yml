@@ -1,6 +1,6 @@
 name: Meg Culp
 favicon: null
-layout_spectrum: 0.49083
+layout_spectrum: 1
 typography_spectrum: 1
 title: "Vibin' with Meg"
 collections:
@@ -34,8 +34,8 @@ color:
     - '#455F82'
     - '#A0ACBA'
     - '#6D90A6'
-  brandStrength: 0.0625
-  lightness: 0.625
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0
   rhythmicContrast: 0
 purpose: []
