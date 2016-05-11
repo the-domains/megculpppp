@@ -1,6 +1,6 @@
 name: Meg Culp
 favicon: null
-layout_spectrum: 0.00583
+layout_spectrum: 1
 typography_spectrum: 1
 title: Megs Vibes
 cta:
@@ -23,7 +23,7 @@ color:
     - '#365663'
     - '#81d7e9'
   brandStrength: 0.0625
-  lightness: 0.75
-  saturation: 0
+  lightness: 0.625
+  saturation: 0.9375
   rhythmicContrast: 1
 purpose: []
