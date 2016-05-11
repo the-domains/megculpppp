@@ -14,15 +14,15 @@ collections:
       number: 10
 color:
   saturation: 1
-  brandStrength: 0.0625
-  lightness: 0.5896057
+  brandStrength: 1
+  lightness: 1
   brandColors:
-    - '#14100F'
-    - '#CCCDD1'
-    - '#778DA2'
-    - '#43362E'
-    - '#585560'
-  rhythmicContrast: 0
+    - '#0B090A'
+    - '#CECFD3'
+    - '#455F82'
+    - '#A0ACBA'
+    - '#6D90A6'
+  rhythmicContrast: 0.6577061
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Meg Culp
+favicon: null
 opengraph:
   image: null
   type: null
